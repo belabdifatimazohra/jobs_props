@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 // Importer Jobs components
 import Jobs from "./components/Jobs";
